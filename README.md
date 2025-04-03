@@ -34,7 +34,7 @@ To run the code in this repository, you need the following dependencies:
 Install the required packages using pip:
 
 ```bash
-pip install tensorflow numpy scikit-image pillow matplotlib ipycanvas
+pip install tensorflow numpy scikit-image pillow matplotlib
 ```
 
 ## Usage
